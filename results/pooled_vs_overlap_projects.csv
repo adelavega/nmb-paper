@@ -1,0 +1,9 @@
+project,n_comparisons,mean_r2,min_r2,max_r2,mean_study_share,mean_analysis_share
+cue_reactivity,3,0.762,0.6604,0.9463,0.564,0.536
+dementia,3,0.747,0.5346,0.9005,0.678,0.677
+executive_function,3,0.657,0.3344,0.9187,0.311,0.299
+problem_solving,4,0.622,0.4401,0.7844,0.298,0.285
+social,4,0.607,0.3968,0.8284,0.339,0.321
+decision_making,3,0.496,0.1727,0.8152,0.333,0.333
+emotion_regulation_2022,4,0.45,0.2499,0.6723,0.697,0.403
+vbm_of_substance_use,1,0.422,0.4218,0.4218,0.263,0.253

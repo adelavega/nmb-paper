@@ -1,0 +1,7 @@
+analysis,arm,n,statistic,p_value,detail
+specificity_gradient,neuroquery,34,-0.077,0.66526,narrow=0.095;broad=0.089
+specificity_gradient,neurovlm,31,-0.1041,0.57718,narrow=0.148;broad=0.142
+specificity_gradient,pooled,27,0.6886,7e-05,narrow=0.497;broad=0.741
+shared_failure,neuroquery_vs_neurovlm,31,0.8512,0.0,spearman of per-target r2
+tool_margin,neurovlm_minus_neuroquery,31,0.0528,4.488e-05,"CI=[+0.0266,+0.0799];ahead=25"
+ensemble_headroom,oracle_max,31,0.0037,,oracle=0.1493;best_single=0.1456

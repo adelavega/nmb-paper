@@ -1,0 +1,125 @@
+project,target,method,raw_r2,residual_r2,identification,sibling_win
+cue_reactivity,1_reward_neutral_2020_wbonly,NeuroQuery,0.052403,0.10751,0.866667,1.0
+cue_reactivity,2_drug_neutral_2020_wbonly,NeuroQuery,0.035449,0.073087,0.8,0.0
+cue_reactivity,3_natural_neutral_2020_wbonly,NeuroQuery,0.042911,0.034103,0.8,0.0
+decision_making,adm_july2019,NeuroQuery,0.011857,-0.011924,0.4,0.5
+decision_making,rdm_july2019,NeuroQuery,0.075672,0.036019,0.933333,1.0
+decision_making,perceptual_dm_july2019,NeuroQuery,0.077109,0.045111,0.966667,1.0
+dementia,all,NeuroQuery,0.01078,0.040296,0.966667,0.666667
+dementia,decrease,NeuroQuery,0.011918,0.059859,1.0,1.0
+dementia,functional,NeuroQuery,0.00068,0.011552,0.9,0.0
+dementia,structural,NeuroQuery,0.020429,0.082405,0.933333,0.333333
+emotion_regulation_2022,decrease,NeuroQuery,0.004776,0.000104,0.066667,0.0
+emotion_regulation_2022,increase,NeuroQuery,0.004197,0.006704,0.6,0.666667
+emotion_regulation_2022,maintain,NeuroQuery,0.002409,-0.0044,0.533333,1.0
+emotion_regulation_2022,reappraisal,NeuroQuery,0.070508,0.052129,0.833333,1.0
+executive_function,all,NeuroQuery,0.364639,0.155163,1.0,1.0
+executive_function,working_memory,NeuroQuery,0.324348,0.195676,1.0,1.0
+executive_function,inhibition,NeuroQuery,0.233588,0.079306,0.933333,0.333333
+executive_function,flexibility,NeuroQuery,0.116041,0.019376,0.7,0.0
+problem_solving,global_calculationandvisuospatialandword_mni_final,NeuroQuery,0.312398,0.075258,0.933333,1.0
+problem_solving,calculation_mni_final,NeuroQuery,0.27479,0.133414,0.966667,0.75
+problem_solving,wordproblems_mni_final,NeuroQuery,0.163814,0.061875,0.8,0.25
+problem_solving,visuospatialreasoning_mni_final,NeuroQuery,0.191246,0.067975,0.833333,0.25
+problem_solving,demand_mni_final,NeuroQuery,0.149656,0.042398,0.833333,0.5
+social,affiliation_merged,NeuroQuery,0.070284,0.105878,1.0,1.0
+social,self_merged,NeuroQuery,0.036796,0.062567,0.8,0.0
+social,others_merged,NeuroQuery,0.039804,0.095216,0.866667,0.5
+social,soccomm_merged,NeuroQuery,0.045446,0.071309,1.0,1.0
+social,all_merged,NeuroQuery,0.093646,0.150003,1.0,1.0
+vbm_of_ptsd,nonptsdgtptsd_merged,NeuroQuery,0.020211,0.040882,0.9,nan
+vbm_of_substance_use,all_drug_classes,NeuroQuery,0.020313,0.044247,0.8,1.0
+vbm_of_substance_use,alcohol,NeuroQuery,0.000567,0.016517,0.8,0.0
+cue_reactivity,1_reward_neutral_2020_wbonly,NeuroVLM,0.198682,0.000269,0.766667,1.0
+cue_reactivity,2_drug_neutral_2020_wbonly,NeuroVLM,0.222832,0.074969,1.0,1.0
+cue_reactivity,3_natural_neutral_2020_wbonly,NeuroVLM,0.115703,0.005601,0.7,0.0
+decision_making,adm_july2019,NeuroVLM,0.093766,0.002998,0.666667,0.5
+decision_making,rdm_july2019,NeuroVLM,0.077359,0.024906,0.7,1.0
+decision_making,perceptual_dm_july2019,NeuroVLM,0.065539,0.037013,0.8,1.0
+dementia,all,NeuroVLM,0.050388,0.08745,0.933333,0.666667
+dementia,decrease,NeuroVLM,0.016326,0.018495,0.633333,0.0
+dementia,functional,NeuroVLM,0.027156,0.007212,0.1,0.333333
+dementia,structural,NeuroVLM,0.055045,0.064958,0.9,1.0
+emotion_regulation_2022,decrease,NeuroVLM,0.001512,-0.006899,0.333333,0.0
+emotion_regulation_2022,increase,NeuroVLM,0.008483,0.002446,0.466667,0.666667
+emotion_regulation_2022,maintain,NeuroVLM,0.084409,0.042488,0.666667,1.0
+emotion_regulation_2022,reappraisal,NeuroVLM,0.086434,0.067117,0.766667,1.0
+executive_function,all,NeuroVLM,0.294504,0.257672,1.0,1.0
+executive_function,working_memory,NeuroVLM,0.383364,0.208674,0.9,0.666667
+executive_function,inhibition,NeuroVLM,0.22795,0.123895,1.0,1.0
+executive_function,flexibility,NeuroVLM,0.280303,0.069044,0.733333,0.0
+problem_solving,global_calculationandvisuospatialandword_mni_final,NeuroVLM,0.32418,0.131363,0.966667,1.0
+problem_solving,calculation_mni_final,NeuroVLM,0.344072,0.287457,0.966667,0.75
+problem_solving,wordproblems_mni_final,NeuroVLM,0.260468,0.075134,1.0,1.0
+problem_solving,visuospatialreasoning_mni_final,NeuroVLM,0.171685,0.083731,0.933333,0.5
+problem_solving,demand_mni_final,NeuroVLM,0.266878,0.120147,0.9,0.75
+social,affiliation_merged,NeuroVLM,0.105024,0.062503,0.766667,0.75
+social,self_merged,NeuroVLM,0.170823,0.012412,0.8,0.25
+social,others_merged,NeuroVLM,0.134993,0.133961,0.833333,0.5
+social,soccomm_merged,NeuroVLM,0.099736,0.076277,0.9,0.25
+social,all_merged,NeuroVLM,0.285246,0.195286,1.0,1.0
+vbm_of_ptsd,nonptsdgtptsd_merged,NeuroVLM,0.041325,0.040806,0.866667,nan
+vbm_of_substance_use,all_drug_classes,NeuroVLM,0.014263,0.010448,0.733333,1.0
+vbm_of_substance_use,alcohol,NeuroVLM,0.003981,0.000695,0.566667,0.0
+cue_reactivity,1_reward_neutral_2020_wbonly,Neurosynth association,0.034859,-0.001819,0.6,0.5
+cue_reactivity,2_drug_neutral_2020_wbonly,Neurosynth association,0.002358,0.011366,0.8,1.0
+cue_reactivity,3_natural_neutral_2020_wbonly,Neurosynth association,0.005632,0.014688,0.633333,0.0
+decision_making,adm_july2019,Neurosynth association,0.000268,-0.007242,0.133333,0.5
+decision_making,rdm_july2019,Neurosynth association,0.029569,0.029775,0.833333,1.0
+decision_making,perceptual_dm_july2019,Neurosynth association,0.097147,0.040699,0.966667,1.0
+dementia,all,Neurosynth association,0.027182,0.006912,0.966667,0.666667
+dementia,decrease,Neurosynth association,0.030928,0.00901,1.0,1.0
+dementia,functional,Neurosynth association,0.008078,0.001362,0.9,0.0
+dementia,structural,Neurosynth association,0.018179,0.013176,0.966667,0.666667
+emotion_regulation_2022,decrease,Neurosynth association,0.00071,-0.000976,0.466667,0.0
+emotion_regulation_2022,increase,Neurosynth association,0.000485,0.015968,0.466667,0.0
+emotion_regulation_2022,maintain,Neurosynth association,0.033995,0.138252,0.733333,1.0
+emotion_regulation_2022,reappraisal,Neurosynth association,0.119225,0.097342,0.966667,0.666667
+executive_function,all,Neurosynth association,0.104417,0.097387,0.966667,0.666667
+executive_function,working_memory,Neurosynth association,0.545577,0.312879,1.0,1.0
+executive_function,inhibition,Neurosynth association,0.164053,0.091813,1.0,1.0
+executive_function,flexibility,Neurosynth association,0.016185,0.005515,0.666667,0.0
+problem_solving,global_calculationandvisuospatialandword_mni_final,Neurosynth association,0.02827,0.028271,0.733333,0.5
+problem_solving,calculation_mni_final,Neurosynth association,0.265724,0.148981,1.0,1.0
+problem_solving,wordproblems_mni_final,Neurosynth association,0.166286,0.058425,0.866667,0.5
+problem_solving,visuospatialreasoning_mni_final,Neurosynth association,0.093463,0.071468,0.966667,0.75
+problem_solving,demand_mni_final,Neurosynth association,0.042977,0.032158,0.866667,1.0
+social,affiliation_merged,Neurosynth association,0.085415,0.061331,0.933333,0.5
+social,self_merged,Neurosynth association,0.027008,0.064783,0.8,0.75
+social,others_merged,Neurosynth association,0.120309,0.201412,1.0,1.0
+social,soccomm_merged,Neurosynth association,0.035438,0.084504,0.933333,0.5
+social,all_merged,Neurosynth association,0.079871,0.16015,0.966667,0.75
+vbm_of_ptsd,nonptsdgtptsd_merged,Neurosynth association,0.017078,0.011353,0.9,nan
+vbm_of_substance_use,all_drug_classes,Neurosynth association,0.004001,0.007483,0.866667,1.0
+vbm_of_substance_use,alcohol,Neurosynth association,0.001595,0.002443,0.633333,0.0
+cue_reactivity,1_reward_neutral_2020_wbonly,Neurosynth uniformity,0.219675,-0.026502,0.566667,1.0
+cue_reactivity,2_drug_neutral_2020_wbonly,Neurosynth uniformity,0.223829,0.022845,0.9,0.5
+cue_reactivity,3_natural_neutral_2020_wbonly,Neurosynth uniformity,0.168839,0.016403,0.766667,0.0
+decision_making,adm_july2019,Neurosynth uniformity,0.103904,-0.010589,0.333333,0.5
+decision_making,rdm_july2019,Neurosynth uniformity,0.139113,0.042282,0.6,0.5
+decision_making,perceptual_dm_july2019,Neurosynth uniformity,0.405327,0.127002,0.933333,1.0
+dementia,all,Neurosynth uniformity,0.160066,0.066911,0.933333,0.666667
+dementia,decrease,Neurosynth uniformity,0.137433,0.063519,0.866667,0.333333
+dementia,functional,Neurosynth uniformity,0.065025,0.01791,0.366667,0.0
+dementia,structural,Neurosynth uniformity,0.162305,0.066839,0.833333,1.0
+emotion_regulation_2022,decrease,Neurosynth uniformity,0.08926,0.000672,0.166667,0.0
+emotion_regulation_2022,increase,Neurosynth uniformity,0.103022,0.015123,0.233333,0.333333
+emotion_regulation_2022,maintain,Neurosynth uniformity,0.308024,0.237921,0.9,1.0
+emotion_regulation_2022,reappraisal,Neurosynth uniformity,0.249702,0.138584,1.0,1.0
+executive_function,all,Neurosynth uniformity,0.521013,0.170873,1.0,1.0
+executive_function,working_memory,Neurosynth uniformity,0.663899,0.469987,0.966667,0.666667
+executive_function,inhibition,Neurosynth uniformity,0.451795,0.159616,1.0,1.0
+executive_function,flexibility,Neurosynth uniformity,0.158505,0.020197,0.566667,0.0
+problem_solving,global_calculationandvisuospatialandword_mni_final,Neurosynth uniformity,0.412367,0.03869,0.966667,1.0
+problem_solving,calculation_mni_final,Neurosynth uniformity,0.553083,0.290372,0.966667,0.75
+problem_solving,wordproblems_mni_final,Neurosynth uniformity,0.420259,0.1173,0.866667,0.5
+problem_solving,visuospatialreasoning_mni_final,Neurosynth uniformity,0.261393,0.087929,0.7,0.0
+problem_solving,demand_mni_final,Neurosynth uniformity,0.325768,0.045888,0.833333,0.5
+social,affiliation_merged,Neurosynth uniformity,0.290174,0.128135,0.8,0.0
+social,self_merged,Neurosynth uniformity,0.25283,0.086419,0.866667,0.25
+social,others_merged,Neurosynth uniformity,0.485441,0.261734,0.966667,0.75
+social,soccomm_merged,Neurosynth uniformity,0.410999,0.123975,0.966667,0.75
+social,all_merged,Neurosynth uniformity,0.514632,0.230789,1.0,1.0
+vbm_of_ptsd,nonptsdgtptsd_merged,Neurosynth uniformity,0.064434,0.029894,0.566667,nan
+vbm_of_substance_use,all_drug_classes,Neurosynth uniformity,0.106053,0.014623,0.333333,1.0
+vbm_of_substance_use,alcohol,Neurosynth uniformity,0.081091,0.004751,0.166667,0.0

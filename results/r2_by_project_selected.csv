@@ -1,0 +1,11 @@
+project,n_selected,n_degenerate,neuroquery_n,neuroquery_mean_r2,neurovlm_n,neurovlm_mean_r2,neurosynth_assoc_n,neurosynth_assoc_mean_r2,neurosynth_unif_n,neurosynth_unif_mean_r2,pooled_n,pooled_mean_r2,mean_ceiling
+cue_reactivity,3,0,3,0.0436,3,0.1791,3,0.0248,3,0.2337,3,0.7618,0.7173
+decision_making,3,0,3,0.0549,3,0.0789,3,0.0539,3,0.236,3,0.4962,0.4214
+dementia,4,0,4,0.011,4,0.0372,4,0.0203,4,0.1333,3,0.7466,0.4452
+emotion_regulation_2022,4,0,4,0.0205,4,0.0452,4,0.0752,4,0.2251,4,0.4497,0.7319
+executive_function,4,0,4,0.2597,4,0.2965,4,0.2096,4,0.4539,3,0.6571,0.7396
+problem_solving,5,0,5,0.2184,5,0.2735,5,0.1634,5,0.4422,4,0.6223,0.702
+social,5,0,5,0.0572,5,0.1592,5,0.0925,5,0.4243,4,0.6071,0.5918
+vbm_of_ptsd,1,0,1,0.0202,1,0.0413,1,0.0198,1,0.0726,0,,0.2529
+vbm_of_substance_use,6,4,2,0.0104,2,0.0091,2,0.0029,2,0.1068,1,0.4218,0.2846
+ALL,35,4,31,0.0929,31,0.1456,31,0.0891,31,0.2993,25,0.6049,0.5927

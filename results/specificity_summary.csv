@@ -1,0 +1,17 @@
+score,method,mean,ci_low,ci_high,n_targets
+raw_r2,NeuroQuery,0.0929,0.0279,0.1648,31
+raw_r2,NeuroVLM,0.1456,0.0696,0.2163,31
+raw_r2,Neurosynth association,0.0712,0.0261,0.1313,31
+raw_r2,Neurosynth uniformity,0.2745,0.1732,0.3601,31
+residual_r2,NeuroQuery,0.0629,0.0361,0.0885,31
+residual_r2,NeuroVLM,0.0748,0.0318,0.1171,31
+residual_r2,Neurosynth association,0.0584,0.022,0.0947,31
+residual_r2,Neurosynth uniformity,0.0987,0.0453,0.151,31
+identification,NeuroQuery,0.8312,0.7019,0.9167,31
+identification,NeuroVLM,0.7839,0.6589,0.8794,31
+identification,Neurosynth association,0.8237,0.7122,0.9074,31
+identification,Neurosynth uniformity,0.7398,0.5788,0.8542,31
+sibling_win,NeuroQuery,0.5917,0.4256,0.75,30
+sibling_win,NeuroVLM,0.6528,0.4928,0.7995,30
+sibling_win,Neurosynth association,0.6306,0.4661,0.7727,30
+sibling_win,Neurosynth uniformity,0.5667,0.4167,0.7102,30

@@ -1,0 +1,10 @@
+project,studies,analyses,coordinates,targets,analyses_per_study_mean,analyses_per_study_max,studies_multi_analysis
+cue_reactivity,191,275,3270,3,1.44,6,65
+decision_making,90,144,1223,3,1.6,7,29
+dementia,29,31,1410,4,1.069,2,2
+emotion_regulation_2022,90,248,2829,4,2.756,8,76
+executive_function,178,271,3076,4,1.522,6,69
+problem_solving,129,282,3166,5,2.186,7,70
+social,238,856,7185,5,3.597,13,195
+vbm_of_ptsd,22,25,159,1,1.136,2,3
+vbm_of_substance_use,80,87,673,6,1.087,2,7

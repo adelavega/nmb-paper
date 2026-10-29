@@ -1,0 +1,36 @@
+project,target,query,neurosynth_term,rule,n_studies,shares_term_with
+cue_reactivity,1_reward_neutral_2020_wbonly,cue reactivity,cue,in_query,452,
+cue_reactivity,2_drug_neutral_2020_wbonly,drug cue reactivity,drug,in_query,319,
+cue_reactivity,3_natural_neutral_2020_wbonly,natural reward cue reactivity,reward,in_query,922,
+decision_making,adm_july2019,decision making under ambiguity,ambiguous,vocab_form,131,
+decision_making,rdm_july2019,risky decision making,risky,in_query,101,
+decision_making,perceptual_dm_july2019,perceptual decision making,perceptual,in_query,867,
+dementia,all,dementia,dementia,in_query,142,decrease;functional
+dementia,decrease,decreased brain activity in dementia,dementia,in_query,142,all;functional
+dementia,functional,functional activation in dementia,dementia,in_query,142,all;decrease
+dementia,structural,gray matter atrophy in dementia,atrophy,in_query,206,
+emotion_regulation_2022,decrease,decreasing negative emotion,emotion,in_query,1037,
+emotion_regulation_2022,increase,increasing emotional response,emotional,in_query,1708,maintain
+emotion_regulation_2022,maintain,maintaining emotional response,emotional,in_query,1708,increase
+emotion_regulation_2022,reappraisal,cognitive reappraisal,reappraisal,in_query,89,
+executive_function,all,executive function,executive function,in_query,154,
+executive_function,working_memory,working memory,working memory,in_query,1091,
+executive_function,inhibition,response inhibition,response inhibition,in_query,218,
+executive_function,flexibility,cognitive flexibility task switching,flexibility,in_query,100,
+problem_solving,global_calculationandvisuospatialandword_mni_final,problem solving reasoning,reasoning,in_query,182,demand_mni_final
+problem_solving,calculation_mni_final,mental arithmetic calculation,calculation,in_query,76,
+problem_solving,wordproblems_mni_final,verbal problem solving,verbal,in_query,729,
+problem_solving,visuospatialreasoning_mni_final,visuospatial reasoning,visuospatial,in_query,267,
+problem_solving,demand_mni_final,logical reasoning,reasoning,in_query,182,global_calculationandvisuospatialandword_mni_final
+social,affiliation_merged,attachment and affiliation,social,fallback,1302,
+social,self_merged,self referential processing,self referential,in_query,166,
+social,others_merged,person perception of others,person,in_query,358,
+social,soccomm_merged,social communication,communication,in_query,271,
+social,all_merged,social cognition,social cognition,in_query,220,
+vbm_of_ptsd,nonptsdgtptsd_merged,posttraumatic stress disorder gray matter,posttraumatic,in_query,72,
+vbm_of_substance_use,all_drug_classes,substance use disorder gray matter,substance,in_query,124,stimulants;cannabis
+vbm_of_substance_use,alcohol,alcohol dependence gray matter,alcohol,in_query,130,
+vbm_of_substance_use,nicotine,nicotine smoking gray matter,smoking,in_query,88,
+vbm_of_substance_use,opioids,opioid dependence gray matter,dependence,in_query,146,
+vbm_of_substance_use,stimulants,stimulant use gray matter,substance,fallback,124,all_drug_classes;cannabis
+vbm_of_substance_use,cannabis,cannabis use gray matter,substance,fallback,124,all_drug_classes;stimulants

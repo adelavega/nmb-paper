@@ -1,0 +1,31 @@
+project,target,query,is_shipped_query,r2
+emotion_regulation_2022,reappraisal,cognitive reappraisal,1,0.070508
+emotion_regulation_2022,reappraisal,reappraisal,0,0.086473
+emotion_regulation_2022,reappraisal,emotion regulation reappraisal of negative affect,0,8e-05
+emotion_regulation_2022,reappraisal,Reappraisal and empathic perspective-taking. Reappraisal; Cognitive perspective taking,0,0.017649
+emotion_regulation_2022,decrease,decreasing negative emotion,1,0.004776
+emotion_regulation_2022,decrease,downregulation of negative emotion,0,0.004776
+emotion_regulation_2022,decrease,emotion regulation decrease negative affect,0,0.001039
+social,all_merged,social cognition,1,0.092915
+social,all_merged,social processes,0,0.052996
+social,all_merged,Neural systems underlying RDoC social constructs. Social processes; Social task,0,0.024036
+social,self_merged,self referential processing,1,0.036796
+social,self_merged,self referential,0,0.032357
+social,self_merged,self referential judgment about oneself,0,0.031138
+executive_function,inhibition,response inhibition,1,0.233588
+executive_function,inhibition,inhibition,0,0.035384
+executive_function,inhibition,inhibitory control go no-go stop signal,0,0.177982
+executive_function,working_memory,working memory,1,0.324348
+executive_function,working_memory,n-back working memory maintenance,0,0.382608
+problem_solving,calculation_mni_final,mental arithmetic calculation,1,0.27479
+problem_solving,calculation_mni_final,calculation,0,0.284929
+problem_solving,calculation_mni_final,numerical cognition arithmetic problem solving,0,0.311127
+decision_making,rdm_july2019,risky decision making,1,0.075672
+decision_making,rdm_july2019,risk taking,0,0.054221
+decision_making,rdm_july2019,decision making under risk gambling,0,0.027755
+cue_reactivity,2_drug_neutral_2020,drug cue reactivity,1,0.048968
+cue_reactivity,2_drug_neutral_2020,drug craving,0,0.075028
+cue_reactivity,2_drug_neutral_2020,drug cue reactivity craving addiction,0,0.068121
+vbm_of_ptsd,nonptsdgtptsd_merged,posttraumatic stress disorder gray matter,1,0.020211
+vbm_of_ptsd,nonptsdgtptsd_merged,ptsd gray matter,0,0.019471
+vbm_of_ptsd,nonptsdgtptsd_merged,post-traumatic stress disorder voxel based morphometry,0,0.002621

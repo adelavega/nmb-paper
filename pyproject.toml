@@ -1,0 +1,31 @@
+[project]
+authors = [{name = "Alejandro de la Vega", email = "aleph4@gmail.com"}]
+name = "nmb-paper"
+version = "0.1.0"
+description = "Analyses, figures and manuscript for the NeuroMetaBench data paper"
+requires-python = ">= 3.12"
+dependencies = []
+
+[tool.pixi.workspace]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+# The stack that produced every reported result (NiMARE 0.21.0; maps identical to 0.2.1 to
+# within 5e-7). Matches neurometabench's `nimare021` environment.
+[tool.pixi.dependencies]
+python = ">=3.12,<3.13"
+numpy = ">=2,<2.5"   # numba (via NiMARE) supports numpy <= 2.4
+pandas = ">=2.0,<3"
+scipy = "*"
+openpyxl = ">=3.1.5,<4"
+pip = "*"
+scikit-learn = "==1.9.1"
+matplotlib = ">=3.8,<4"
+nilearn = "==0.13.1"
+
+[tool.pixi.pypi-dependencies]
+nimare = "==0.21.0"
+neuroquery = "==1.1.0"
+
+[tool.pixi.activation.env]
+PYTHONNOUSERSITE = "1"   # ~/.local has an unrelated NiMARE that would otherwise shadow this one

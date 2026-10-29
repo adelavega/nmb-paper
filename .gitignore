@@ -1,0 +1,14 @@
+.pixi/
+__pycache__/
+*.pyc
+
+# large regenerable intermediates (as in neurometabench before the split)
+data/reference_corpora/
+results/chi2_neurosynth_v7/
+results/neuroquery_maps/
+results/neurosynth_maps/
+results/neurosynth_maps_heldout/
+results/pooled_all_analyses/
+
+# office lock files
+.~lock.*
