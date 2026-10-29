@@ -1,19 +1,15 @@
 # nmb-paper
 
-Analyses, figures and manuscript drafts for the NeuroMetaBench data paper. The dataset itself
-(curated NiMADS studysets, target annotations, and the scripts that build the MKDA reference
-maps) lives in [neurometabench](https://github.com/adelavega/neurometabench); this repo only
-reads from it.
+Analyses, figures and manuscript drafts for the NeuroMetaBench data paper. 
 
+The dataset itself
+(curated NiMADS studysets, target annotations, and the scripts that build the MKDA reference
+maps) lives in [neurometabench](https://github.com/adelavega/neurometabench).
 ## Setup
 
 ```bash
 pixi install
 ```
-
-The environment pins the stack that produced every reported result: NiMARE 0.21.0,
-nilearn 0.13.1, scikit-learn 1.9.1, neuroquery 1.1.0. It is the same as neurometabench's
-`nimare021` environment.
 
 The scripts expect a neurometabench checkout next to this one (`../neurometabench`). If yours
 is somewhere else, set `NMB_ROOT=/path/to/neurometabench`. They read these parts of it:
